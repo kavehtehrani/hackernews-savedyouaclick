@@ -7,10 +7,9 @@ body {
   justify-content: center;
   width: 250px;
   height: 80px;
-  margin: 0px;
-  padding: 0px;
-  border: solid blue;
-  border-width: thin;
+  margin: 0;
+  padding: 0;
+  border: thin solid blue;
   overflow: hidden;
 }
 
