@@ -1,0 +1,14 @@
+.hnsaveaclick {
+  all: unset;
+  margin-left: 0.25rem;
+  font-size: 0.8rem;
+  background-image: "../icons/icon32.png";
+}
+
+.hnsaveaclick:hover {
+  cursor: pointer;
+}
+
+.hnsaveaclickimg {
+  zoom: 0.8;
+}
