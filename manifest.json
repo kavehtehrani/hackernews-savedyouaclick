@@ -13,8 +13,6 @@
     "64": "icons/icon64.png"
   },
   "permissions": [
-    "tabs",
-    "activeTab",
     "background",
     "storage"
   ],
@@ -34,8 +32,7 @@
       "js": ["scripts/content.js"],
       "css": [ "css/content.css" ],
       "matches": [
-        "https://news.ycombinator.com/",
-        "https://news.ycombinator.com/?p=*"
+        "https://news.ycombinator.com/*"
       ]
     }
   ]
