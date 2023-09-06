@@ -33,6 +33,10 @@
       "css": [ "css/content.css" ],
       "matches": [
         "https://news.ycombinator.com/*"
+      ],
+      "exclude_matches": [
+        "https://news.ycombinator.com/threads?*",
+        "https://news.ycombinator.com/item?*"
       ]
     }
   ]
