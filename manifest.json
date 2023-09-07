@@ -36,6 +36,7 @@
       ],
       "exclude_matches": [
         "https://news.ycombinator.com/threads?*",
+        "https://news.ycombinator.com/newcomments*",        
         "https://news.ycombinator.com/item?*"
       ]
     }
