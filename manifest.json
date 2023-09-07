@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Hacker News - Saved You a Click",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "description": "Adds a link to open both the article link and comments page, saving a click.",
   "action": {
     "default_title": "HN Saved You a Click", 
