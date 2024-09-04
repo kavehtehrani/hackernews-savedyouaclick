@@ -1,7 +1,5 @@
 ("use strict");
 
-baseURL = "https://news.ycombinator.com/";
-
 const entriesAll = document.getElementsByClassName("athing");
 
 const openBackgroundTab = async (url) => {
